@@ -1,4 +1,4 @@
-- 👋 Greetings, I’m GalliusG
+- 👋 Greetings, I’m GalliusG and I'm just a regular guy trying to find inspiration to do something I guess.
 - 👀 I’m interested in nothing yet everything imaginable
 - 🌱 I’m currently learning python and stuff
 - 💞️ I’m looking to collaborate on anything possible
